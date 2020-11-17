@@ -21,9 +21,9 @@ Since June 2020, I have been studying at [Yandex.Practicum](https://praktikum.ya
 - Backend (node.js)
 
 ##### SoftSkills. I know how to:
-- Ask questions correctly;
+- ask questions correctly;
 - take criticism professionally;
 - Google;
 - comply with deadlines;
-- organize your workflow;
+- organize my workflow;
 - decompose a complex problem.
