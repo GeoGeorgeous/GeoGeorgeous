@@ -12,6 +12,9 @@ I have been studying at [Yandex.Practicum](https://praktikum.yandex.ru/) as a fu
 3.  [Mesto](https://github.com/GeoGeorgeous/mesto) — first serious application  pure vanilla JavaScript powered 💫
 4.  [Mesto React](https://github.com/GeoGeorgeous/mesto-react) — Mesto App with React enhancements ⚛
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geogeorgeous)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ##### HardSkills:
 - Cross-browser adaptive layout (HTML, CSS);
 - JavaScript;
