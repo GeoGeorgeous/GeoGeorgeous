@@ -13,21 +13,3 @@ I have been studying at [Yandex.Practicum](https://praktikum.yandex.ru/) as a fu
 4.  [Mesto React](https://github.com/GeoGeorgeous/mesto-react) — Mesto App with React enhancements ⚛
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geogeorgeous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-##### HardSkills:
-- Cross-browser adaptive layout (HTML, CSS);
-- JavaScript;
-- BEM;
-- Infrastructure (git, bash, npm, webpack);
-- Design xcode (figma, VS Code);
-- Backend (node.js)
-
-##### SoftSkills. I know how to:
-- ask questions correctly;
-- take criticism professionally;
-- Google;
-- comply with deadlines;
-- organize my workflow;
-- decompose a complex problem.
