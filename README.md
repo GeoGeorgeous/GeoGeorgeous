@@ -13,5 +13,4 @@ I have been studying at [Yandex.Practicum](https://praktikum.yandex.ru/) as a fu
 4.  [Mesto React](https://github.com/GeoGeorgeous/mesto-react) — Mesto App with React enhancements ⚛
 
 ##### 📚 Stack:
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
