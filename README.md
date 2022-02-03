@@ -16,7 +16,7 @@
 #### Skills:
 `HTML` `CSS` `BEM` `JavaScript (ES6)` `React`\
 `Node.js` `Express.js` `MongoDB`\
-`npm` `git` `webpack` `nginx` `postcss` `babel`
+`npm` `git` `webpack` `nginx` `postcss` `babel`\
 `Python (basics)` `Figma` `Sketch`
 
 #### Contact me
