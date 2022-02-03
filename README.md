@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-> My name is George, I'm Junior Web Developer from Moscow. 
+> My name is George, I'm Junior Web Developer from Moscow.\
 > 🎓 Currently learning TypeScript
 
 ### FrontEnd:
@@ -24,4 +24,4 @@
 `npm` `git` `webpack` `nginx` `postcss` `babel`
 
 ### Contact me:
-georgegorchev@yandex.ru  //  telegram: [@georgous](https://t.me/georgous) 👉👈🍞
+georgegorchev@yandex.ru  //  telegram: [@georgous](https://t.me/georgous)
