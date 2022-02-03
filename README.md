@@ -1,10 +1,6 @@
 > 👋 My name is George, I'm Junior Web Developer from Moscow.\
 > 🎓 Currently learning TypeScript/
 
-**Contact me**
-> georgegorchev@yandex.ru/
-> telegram: [@georgous](https://t.me/georgous)
-
 ### FrontEnd:
 * [HowToLearn](https://github.com/GeoGeorgeous/how-to-learn) `HTML` `CSS` **—** *First standalone project w/ suggestions that will boost your learning*
 * [Russian Travel](https://github.com/GeoGeorgeous/russian-travel) `HTML` `CSS` **—** *Responsive project dedicated to travel across Russia*
@@ -24,3 +20,7 @@
 `Node.js` `Express.js` `MongoDB`
 `npm` `git` `webpack` `nginx` `postcss` `babel`
 
+#### Contact me
+> georgegorchev@yandex.ru
+
+> telegram: [@georgous](https://t.me/georgous)
