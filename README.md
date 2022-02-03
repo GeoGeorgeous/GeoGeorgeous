@@ -1,6 +1,6 @@
 > 👋 My name is George, I'm Junior Web Developer from Moscow.\
 > 🎓 Currently learning TypeScript/
-> **Contact me**/
+**Contact me**/
 > georgegorchev@yandex.ru/ /
 > telegram: [@georgous](https://t.me/georgous)
 
