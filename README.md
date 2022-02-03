@@ -24,6 +24,4 @@
 `npm` `git` `webpack` `nginx` `postcss` `babel`
 
 ### Contact me:
-georgegorchev@yandex.ru
-
-telegram: [@georgous](https://t.me/georgous)
+georgegorchev@yandex.ru  //  telegram: [@georgous](https://t.me/georgous)
