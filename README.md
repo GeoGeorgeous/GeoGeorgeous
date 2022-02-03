@@ -14,9 +14,10 @@
 * [REST API for Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-api) `Node.js` `Express.js` `MongoDB`
 
 #### Skills:
-`HTML` `CSS` `JavaScript (ES6)` `React`\
+`HTML` `CSS` `BEM` `JavaScript (ES6)` `React`\
 `Node.js` `Express.js` `MongoDB`\
 `npm` `git` `webpack` `nginx` `postcss` `babel`
+`Python (basics)` `Figma` `Sketch`
 
 #### Contact me
 > mail: georgegorchev@yandex.ru\
