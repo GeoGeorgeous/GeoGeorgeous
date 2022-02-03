@@ -2,6 +2,7 @@
 > 🎓 Currently learning **TypeScript**
 
 #### FrontEnd:
+****
 * [HowToLearn](https://github.com/GeoGeorgeous/how-to-learn) `HTML` `CSS` **—** *First standalone project w/ suggestions that will boost your learning*
 * [Russian Travel](https://github.com/GeoGeorgeous/russian-travel) `HTML` `CSS` **—** *Responsive project dedicated to travel across Russia*
 * [Mesto](https://github.com/GeoGeorgeous/mesto) `HTML` `CSS` `JS` **—** *Pure vanilla JS application*
@@ -10,10 +11,12 @@
 * [Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-frontend) `React` **—** *Arthouse movie selection app*
 
 #### Backend:
+****
 * [REST API for Mesto](https://github.com/GeoGeorgeous/express-mesto) `Node.js` `Express.js` `MongoDB`
 * [REST API for Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-api) `Node.js` `Express.js` `MongoDB`
 
 #### Skills:
+****
 `HTML` `CSS`\
 `JavaScript (ES6)`\
 `React`\
@@ -21,5 +24,6 @@
 `npm` `git` `webpack` `nginx` `postcss` `babel`\
 
 #### Contact me
+****
 > georgegorchev@yandex.ru\
 > telegram: [@georgous](https://t.me/georgous)
