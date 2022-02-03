@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🍞 My name is George, I'm from Moscow. 
+>🍞 My name is George, I'm from Moscow. 
 
 I have been studying at [Yandex.Practicum](https://praktikum.yandex.ru/) as a fullstack web developer since June 2020.
 
