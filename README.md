@@ -18,7 +18,7 @@
 `JavaScript (ES6)`\
 `React`\
 `Node.js` `Express.js` `MongoDB`\
-`npm` `git` `webpack` `nginx` `postcss` `babel`\
+`npm` `git` `webpack` `nginx` `postcss` `babel`
 
 #### Contact me
 > mail: georgegorchev@yandex.ru\
