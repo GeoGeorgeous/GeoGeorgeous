@@ -11,8 +11,8 @@
 — *responsive project dedicated to travel across Russia*
 * [Mesto](https://github.com/GeoGeorgeous/mesto) `HTML` `CSS` `JS`
 — *pure vanilla JS application*
-	- [Mesto React](https://github.com/GeoGeorgeous/mesto-react) `React` *With React enhancements* ⚛
-	- [Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth) `React` *With client-side registration and authorization*
+	- [Mesto React](https://github.com/GeoGeorgeous/mesto-react) `React` [*With React enhancements* ⚛]
+	- [Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth) `React` [*With client-side registration and authorization*]
 * [Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-frontend) `React`
 — *Arthouse movie selection app*
 
