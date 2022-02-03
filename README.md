@@ -21,5 +21,6 @@
 `npm` `git` `webpack` `nginx` `postcss` `babel`\
 
 #### Contact me
-> georgegorchev@yandex.ru\
-> telegram: [@georgous](https://t.me/georgous)
+> mail: georgegorchev@yandex.ru\
+> telegram: [@georgous](https://t.me/georgous)\
+> linkedIn: [Georgii Gorchev](https://www.linkedin.com/in/georgii-gorchev-605320213/)
