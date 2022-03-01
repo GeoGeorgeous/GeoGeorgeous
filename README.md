@@ -1,4 +1,6 @@
-> 👋 My name is **George**, I'm Junior Web Developer from Moscow.\
+> 👋 My name is **George**\
+> Juniour Full Stack Web Developer who is passionate about buidling modern web applications. 
+As a developer, I’m able to combine my love of minimalistic design with the complex back-end processes in order to build visually appealing and functional web applications.\
 > 🎓 Currently learning **TypeScript**
 
 #### FrontEnd:
