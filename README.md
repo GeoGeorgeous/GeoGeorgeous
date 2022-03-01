@@ -1,7 +1,7 @@
-> 👋 My name is **George**\
 > Juniour Full Stack Web Developer who is passionate about buidling modern web applications. 
 As a developer, I’m able to combine my love of minimalistic design with the complex back-end processes in order to build visually appealing and functional web applications.\
-> 🎓 Currently learning **TypeScript**
+
+> Currently learning **TypeScript**
 
 #### FrontEnd:
 * [HowToLearn](https://github.com/GeoGeorgeous/how-to-learn) `HTML` `CSS` **—** *First standalone project w/ suggestions that will boost your learning*
