@@ -23,7 +23,7 @@ As a developer, I’m able to combine my love of minimalistic design with the co
 `Python (basics)` `Figma` `Sketch`
 
 #### Contact me
-> LinkedIn: [Georgii Gorchev](https://www.linkedin.com/in/georgii-gorchev-605320213/)
+> LinkedIn: [Georgii Gorchev](https://www.linkedin.com/in/georgii-gorchev-605320213/)\
 > Email: georgegorchev@yandex.ru\
 > Telegram: [@georgous](https://t.me/georgous)\
 
