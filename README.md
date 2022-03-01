@@ -15,7 +15,7 @@ As a developer, I’m able to combine my love of minimalistic design with the co
 * [REST API for Mesto](https://github.com/GeoGeorgeous/express-mesto) `Node.js` `Express.js` `MongoDB`
 * [REST API for Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-api) `Node.js` `Express.js` `MongoDB`
 
-#### Skills:
+#### Stack:
 `HTML` `CSS` `BEM` `JavaScript (ES6)` `React`\
 `Node.js` `Express.js` `MongoDB`\
 `npm` `git` `webpack` `nginx` `postcss` `babel`\
