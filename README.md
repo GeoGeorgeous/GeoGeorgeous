@@ -18,7 +18,7 @@ As a developer, I’m able to combine my love of minimalistic design with the co
 #### Stack:
 `HTML` `CSS` `BEM` `JavaScript (ES6)` `React`\
 `Node.js` `Express.js` `MongoDB`\
-`npm` `git` `webpack` `nginx` `postcss` `babel`\
+`npm` `git` `webpack` `eslint` `CRA` `prettier` `nginx` `postcss` `babel`\
 `Python (basics)` `Figma` `Sketch`
 
 #### Contact me
