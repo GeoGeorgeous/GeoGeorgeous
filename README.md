@@ -10,6 +10,7 @@ As a developer, I’m able to combine my love of minimalistic design with the co
 	- [Mesto React](https://github.com/GeoGeorgeous/mesto-react) `React` **—** *..with React enhancements*
 	- [Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth) `React` **—** *..with client-side registration and authorization*
 * [Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-frontend) `React` **—** *Arthouse movie selection app*
+* [Idaproject](https://github.com/GeoGeorgeous/idaproject) `JS` `webpack` Test assignment for Idaproject
 
 #### Backend:
 * [REST API for Mesto](https://github.com/GeoGeorgeous/express-mesto) `Node.js` `Express.js` `MongoDB`
