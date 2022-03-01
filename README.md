@@ -1,5 +1,5 @@
 > Juniour Full Stack Web Developer who is passionate about buidling modern web applications. 
-As a developer, I’m able to combine my love of minimalistic design with the complex back-end processes in order to build visually appealing and functional web applications.\
+As a developer, I’m able to combine my love of minimalistic design with the complex back-end processes in order to build visually appealing and functional web applications.
 
 > Currently learning **TypeScript**
 
@@ -22,6 +22,7 @@ As a developer, I’m able to combine my love of minimalistic design with the co
 `Python (basics)` `Figma` `Sketch`
 
 #### Contact me
-> mail: georgegorchev@yandex.ru\
-> telegram: [@georgous](https://t.me/georgous)\
-> linkedIn: [Georgii Gorchev](https://www.linkedin.com/in/georgii-gorchev-605320213/)
+> LinkedIn: [Georgii Gorchev](https://www.linkedin.com/in/georgii-gorchev-605320213/)
+> Email: georgegorchev@yandex.ru\
+> Telegram: [@georgous](https://t.me/georgous)\
+
