@@ -7,8 +7,8 @@ Currently learning **TypeScript** and solving puzzles on **[codewars](https://ww
 * **[HowToLearn](https://github.com/GeoGeorgeous/how-to-learn)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup> `HTML` `CSS` — Techniques that will boost your learning.
 * **[Russian Travel](https://github.com/GeoGeorgeous/russian-travel)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/russian-travel/)]</sup> `HTML` `CSS` — How exciting traveling the largest country can be.
 * **[Mesto](https://github.com/GeoGeorgeous/mesto)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/mesto/)]</sup> `HTML` `CSS` `JS` `webpack` — App for sharing photos and putting likes.
-* **[Mesto React](https://github.com/GeoGeorgeous/mesto-react)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/mesto-react/)]</sup> `React` — Mesto, but enhanced with React.
-* **[Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth)** `React` — Mesto, but configured to work with a [custom backend](https://github.com/GeoGeorgeous/express-mesto), including registration, authorization and authentication on the frontend.
+* **[Mesto React](https://github.com/GeoGeorgeous/mesto-react)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/mesto-react/)]</sup> `React` — Mesto app enhanced with React.
+* **[Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth)** `React` — Место app set up to work with a [custom backend](https://github.com/GeoGeorgeous/express-mesto), including registration, authorization and authentication on the frontend.
 * **[Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-frontend)** `React` — Arthouse movie selection app.
 * **[Idaproject](https://github.com/GeoGeorgeous/idaproject)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup> `JS` `webpack` — Test assignment for [Idaproject](https://geogeorgeous.github.io/idaproject/).
 
