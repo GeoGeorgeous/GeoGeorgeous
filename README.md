@@ -4,7 +4,7 @@ As a developer, I’m able to combine my love of minimalistic design with the co
 Currently learning **TypeScript** and solving puzzles on **[codewars](https://www.codewars.com/)**
 
 #### FrontEnd:
-* [HowToLearn](https://github.com/GeoGeorgeous/how-to-learn)([deployed](https://geogeorgeous.github.io/how-to-learn/)) `HTML` `CSS` **—** *One page HTMl&CSS website that will boost your learning*
+* [HowToLearn](https://github.com/GeoGeorgeous/how-to-learn) *([deployed](https://geogeorgeous.github.io/how-to-learn/))* `HTML` `CSS` **—** *One page HTMl&CSS website that will boost your learning*
 * [Russian Travel](https://github.com/GeoGeorgeous/russian-travel) `HTML` `CSS` **—** *Responsive project dedicated to travel across Russia*
 * [Mesto](https://github.com/GeoGeorgeous/mesto) `HTML` `CSS` `JS` **—** *Photo gallery app (Instagram-like)*
 	- [Mesto React](https://github.com/GeoGeorgeous/mesto-react) `React` **—** *..with React enhancements*
