@@ -4,13 +4,13 @@ As a developer, I’m able to combine my love of minimalistic design with the co
 Currently learning **TypeScript** and solving puzzles on **[codewars](https://www.codewars.com/)**
 
 #### FrontEnd:
-* [HowToLearn](https://github.com/GeoGeorgeous/how-to-learn) *<sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup>* `HTML` `CSS` **—** *Techniques that will boost your learning.*
-* [Russian Travel](https://github.com/GeoGeorgeous/russian-travel) *<sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/russian-travel/)]</sup>* `HTML` `CSS` **—** *How exciting traveling the largest country can be.*
-* [Mesto](https://github.com/GeoGeorgeous/mesto) *<sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/mesto/)]</sup>* `HTML` `CSS` `JS` **—** *Photo gallery app (Instagram-like)*
-	- [Mesto React](https://github.com/GeoGeorgeous/mesto-react) `React` **—** *..with React enhancements*
-	- [Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth) `React` **—** *..with client-side registration and authorization*
-* [Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-frontend) `React` **—** *Arthouse movie selection app*
-* [Idaproject](https://github.com/GeoGeorgeous/idaproject) `JS` `webpack` **—** *Test assignment for Idaproject*
+* **[HowToLearn](https://github.com/GeoGeorgeous/how-to-learn)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup> `HTML` `CSS` — Techniques that will boost your learning.
+* **[Russian Travel](https://github.com/GeoGeorgeous/russian-travel)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/russian-travel/)]</sup> `HTML` `CSS` — How exciting traveling the largest country can be.
+* **[Mesto](https://github.com/GeoGeorgeous/mesto)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/mesto/)]</sup> `HTML` `CSS` `JS` — An app for sharing photos and putting likes.
+* **[Mesto React](https://github.com/GeoGeorgeous/mesto-react)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/mesto-react/)]</sup> `React` — Mesto, but enhanced with React.
+* **[Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth)** `React` — Mesto, but configured to work with a custom backend [custom backend](https://github.com/GeoGeorgeous/express-mesto), including registration, authorization and authentication on the frontend.
+* **[Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-frontend)** `React` — Arthouse movie selection app.
+* **[Idaproject](https://github.com/GeoGeorgeous/idaproject)** `JS` `webpack` — Test assignment for [Idaproject](https://idaproject.com/).
 
 #### Backend:
 * [REST API for Mesto](https://github.com/GeoGeorgeous/express-mesto) `Node.js` `Express.js` `MongoDB`
