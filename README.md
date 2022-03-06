@@ -10,7 +10,7 @@ Currently learning **TypeScript** and solving puzzles on **[codewars](https://ww
 * **[Mesto React](https://github.com/GeoGeorgeous/mesto-react)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/mesto-react/)]</sup> `React` — Mesto, but enhanced with React.
 * **[Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth)** `React` — Mesto, but configured to work with a custom backend [custom backend](https://github.com/GeoGeorgeous/express-mesto), including registration, authorization and authentication on the frontend.
 * **[Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-frontend)** `React` — Arthouse movie selection app.
-* **[Idaproject](https://github.com/GeoGeorgeous/idaproject)** `JS` `webpack` — Test assignment for [Idaproject](https://idaproject.com/).
+* **[Idaproject](https://github.com/GeoGeorgeous/idaproject)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup> `JS` `webpack` — Test assignment for [Idaproject](https://geogeorgeous.github.io/idaproject/).
 
 #### Backend:
 * [REST API for Mesto](https://github.com/GeoGeorgeous/express-mesto) `Node.js` `Express.js` `MongoDB`
