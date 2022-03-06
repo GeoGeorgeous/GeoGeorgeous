@@ -4,8 +4,8 @@ As a developer, I’m able to combine my love of minimalistic design with the co
 Currently learning **TypeScript** and solving puzzles on **[codewars](https://www.codewars.com/)**
 
 #### FrontEnd:
-* [HowToLearn](https://github.com/GeoGeorgeous/how-to-learn) *<sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup>* `HTML` `CSS` **—** *One page HTMl&CSS website that will boost your learning*
-* [Russian Travel](https://github.com/GeoGeorgeous/russian-travel) *<sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/russian-travel/index.html)]</sup>* `HTML` `CSS` **—** *Responsive project dedicated to travel across Russia*
+* [HowToLearn](https://github.com/GeoGeorgeous/how-to-learn) *<sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup>* `HTML` `CSS` **—** *Techniques that will boost your learning*
+* [Russian Travel](https://github.com/GeoGeorgeous/russian-travel) *<sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/russian-travel/index.html)]</sup>* `HTML` `CSS` `responsive` `adaptive` **—** *How exciting traveling the largest country can be*
 * [Mesto](https://github.com/GeoGeorgeous/mesto) `HTML` `CSS` `JS` **—** *Photo gallery app (Instagram-like)*
 	- [Mesto React](https://github.com/GeoGeorgeous/mesto-react) `React` **—** *..with React enhancements*
 	- [Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth) `React` **—** *..with client-side registration and authorization*
