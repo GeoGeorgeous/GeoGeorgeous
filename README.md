@@ -1,7 +1,7 @@
 #### Juniour Full Stack Web Developer who is passionate about buidling modern web applications. 
 As a developer, I’m able to combine my love of minimalistic design with the complex back-end processes in order to build visually appealing and functional web applications.
 
-Currently learning **TypeScript** and solving puzzles on **[codewars](https://www.codewars.com/)**
+Love **TypeScript** and solving puzzles on **[codewars](https://www.codewars.com/)**
 
 #### FrontEnd:
 * **[HowToLearn](https://github.com/GeoGeorgeous/how-to-learn)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup> `HTML` `CSS` — Techniques that will boost your learning.
