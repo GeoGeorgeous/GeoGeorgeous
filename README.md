@@ -1,7 +1,10 @@
-#### Juniour Full Stack Web Developer who is passionate about buidling modern web applications. 
-As a developer, I’m able to combine my love of minimalistic design with the complex back-end processes in order to build visually appealing and functional web applications.
+### Full Stack Web Dev
+> Solving puzzles on **[codewars](https://www.codewars.com/)**
+#### Contact me
+> LinkedIn: **[Georgii Gorchev](https://www.linkedin.com/in/georgii-gorchev-605320213/)**\
+> Email: **georgegorchev@yandex.com**\
+> Telegram: **[@georgous](https://t.me/georgous)**
 
-Love **TypeScript** and solving puzzles on **[codewars](https://www.codewars.com/)**
 
 #### FrontEnd:
 * **[HowToLearn](https://github.com/GeoGeorgeous/how-to-learn)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup> `HTML` `CSS` — Techniques that will boost your learning.
@@ -17,13 +20,9 @@ Love **TypeScript** and solving puzzles on **[codewars](https://www.codewars.com
 * [REST API for Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-api) `Node.js` `Express.js` `MongoDB`
 
 #### Stack:
-`HTML` `CSS` `BEM` `JavaScript (ES6)` `React`\
+`React` `JavaScript(ES6)` `TypeScript`\
+`HTML5` `CSS3` `SASS` `Tailwind` `BEM`\
 `Node.js` `Express.js` `MongoDB`\
-`npm` `git` `webpack` `CRA` `eslint` `prettier` `nginx` `postcss` `babel`\
-`Python (basics)` `Figma` `Sketch`
-
-#### Contact me
-> LinkedIn: [Georgii Gorchev](https://www.linkedin.com/in/georgii-gorchev-605320213/)\
-> Email: georgegorchev@yandex.ru\
-> Telegram: [@georgous](https://t.me/georgous)
-
+`webpack` `docker` `npm` `git` `nginx` `postcss` `babel`\
+`eslint` `prettier`\
+`Figma` `Sketch`
