@@ -1,7 +1,7 @@
 #### 🤖 Full Stack Web Dev
 > Solving puzzles on **[codewars](https://www.codewars.com/)**
 #### 🦾 Contact me
-> LinkedIn: **[Georgii Gorchev](https://www.linkedin.com/in/georgii-gorchev-605320213/)**\
+> LinkedIn: **[Georgii Gorchev](www.linkedin.com/in/georgegorchev)**\
 > Email: **georgegorchev@yandex.com**\
 > Telegram: **[@georgous](https://t.me/georgous)**
 
