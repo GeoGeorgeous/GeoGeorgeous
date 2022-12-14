@@ -1,5 +1,5 @@
 #### 🤖 Full Stack Web Dev
-> Solving puzzles on **[codewars](https://www.codewars.com/)**
+> Solving puzzles on **[codewars](https://www.codewars.com/users/GeoGeorgeous)**
 #### 🦾 Contact me
 > LinkedIn: **[Georgii Gorchev](www.linkedin.com/in/georgegorchev)**\
 > Email: **georgegorchev@yandex.com**\
