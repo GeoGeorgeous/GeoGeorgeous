@@ -20,7 +20,7 @@
 * [REST API for Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-api) `Node.js` `Express.js` `MongoDB`
 
 #### Stack:
-`React` `JavaScript(ES6)` `TypeScript`\
+`JavaScript(ES6)` `React` `Svelte` `TypeScript`\
 `HTML5` `CSS3` `SASS` `Tailwind` `BEM`\
 `Node.js` `Express.js` `MongoDB`\
 `webpack` `docker` `npm` `git` `nginx` `postcss` `babel`\
