@@ -1,11 +1,10 @@
 #### 🤖 Full Stack Web Dev
 > Solving puzzles on **[codewars](https://www.codewars.com/users/GeoGeorgeous)**
-#### 🦾 Contact me
+
 > LinkedIn: **[Georgii Gorchev](www.linkedin.com/in/georgegorchev)**\
 > Email: **georgegorchev@yandex.com**\
 > Telegram: **[@georgous](https://t.me/georgous)**
 
----
 #### FrontEnd:
 * **[HowToLearn](https://github.com/GeoGeorgeous/how-to-learn)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/how-to-learn/)]</sup> `HTML` `CSS` — Techniques that will boost your learning.
 * **[Russian Travel](https://github.com/GeoGeorgeous/russian-travel)** <sup>[[Deployed to Github Pages](https://geogeorgeous.github.io/russian-travel/)]</sup> `HTML` `CSS` — How exciting traveling the country, which spreads across two continents can be.
