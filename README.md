@@ -20,4 +20,4 @@
 `JavaScript(ES6)` `React` `Svelte` `TypeScript`\
 `HTML5` `CSS3` `SASS/SCSS` `Tailwind` `BEM`\
 `Node.js` `Express.js` `MongoDB`\
-`webpack` `Vite` `docker` `npm` `git` `nginx`
+`webpack` `vite` `docker` `npm` `git` `nginx`
