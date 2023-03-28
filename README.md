@@ -1,6 +1,4 @@
 #### 🤖 Full Stack Web Dev
-> Solving puzzles on **[codewars](https://www.codewars.com/users/GeoGeorgeous)**
-
 > LinkedIn: **[Georgii Gorchev](www.linkedin.com/in/georgegorchev)**\
 > Email: **georgegorchev@yandex.com**\
 > Telegram: **[@georgous](https://t.me/georgous)**
@@ -20,8 +18,6 @@
 
 #### Stack:
 `JavaScript(ES6)` `React` `Svelte` `TypeScript`\
-`HTML5` `CSS3` `SASS` `Tailwind` `BEM`\
+`HTML5` `CSS3` `SASS/SCSS` `Tailwind` `BEM`\
 `Node.js` `Express.js` `MongoDB`\
-`webpack` `docker` `npm` `git` `nginx` `postcss` `babel`\
-`eslint` `prettier`\
-`Figma` `Sketch`
+`webpack` `Vite` `docker` `npm` `git` `nginx`
