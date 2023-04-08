@@ -10,16 +10,15 @@
 `webpack` `vite` `docker` `npm` `git` `nginx`
 
 #### Repos:
-* **[HowToLearn](https://github.com/GeoGeorgeous/how-to-learn)** — Techniques that will boost your learning. Deployed to [ Github Pages](https://geogeorgeous.github.io/how-to-learn/)
-* **[Russian Travel](https://github.com/GeoGeorgeous/russian-travel)** — How exciting it can be to travel a country that spans across two continents. Deployed to [Github Pages](https://geogeorgeous.github.io/russian-travel/)
-* **[Mesto](https://github.com/GeoGeorgeous/mesto)** — App for sharing photos and liking posts on vanilla `JavaScript`. Deployed to [Github Pages](https://geogeorgeous.github.io/mesto/)
-* **[Mesto React](https://github.com/GeoGeorgeous/mesto-react)** — `SPA` Mesto app enhanced with `React`. Deployed to [Github Pages](https://geogeorgeous.github.io/mesto-react/)
-* **[Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth)** — `SPA React` Mesto app set up to work with a [custom backend](https://github.com/GeoGeorgeous/express-mesto) w/ registration, authorization and authentication.
-* **[Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-frontend)** — `SPA` Arthouse movie selection `React` app.
-* **[Robo Typing](https://github.com/GeoGeorgeous/typing)** — Typing game on `SvelteKit` inspired by Monkeytype. Deployed to [Vercel](https://typing-dusky-three.vercel.app/)
-* **[Snake](https://github.com/GeoGeorgeous/snake)** — Simple snake game on `Svelte`. Deployed to [Github Pages](https://geogeorgeous.github.io/snake/)
+* **[HowToLearn](https://github.com/GeoGeorgeous/how-to-learn)** — Techniques that will boost your learning. [Deployed](https://geogeorgeous.github.io/how-to-learn/) on Github Pages.
+* **[Russian Travel](https://github.com/GeoGeorgeous/russian-travel)** — How exciting it can be to travel a country that spans across two continents. [Deployed](https://geogeorgeous.github.io/russian-travel/) on Github Pages.
+* **[Mesto](https://github.com/GeoGeorgeous/mesto)** — Pure vanilla `JavaScript` App for sharing and liking posts. [Deployed](https://geogeorgeous.github.io/mesto/) on Github Pages.
+* **[Mesto React](https://github.com/GeoGeorgeous/mesto-react)** — Mesto SPA enhanced with `React`. [Deployed](https://geogeorgeous.github.io/mesto-react/) on Github Pages.
+* **[Mesto React Auth](https://github.com/GeoGeorgeous/react-mesto-auth)** — Registration, authorization, and authentication, powered by a [custom backend](https://github.com/GeoGeorgeous/express-mesto).
+* **[Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-frontend)** — Arthouse movie selection `React` SPA.
+* **[Robo Typing](https://github.com/GeoGeorgeous/typing)** — Typing game on `SvelteKit` inspired by Monkeytype. [Deployed](https://typing-dusky-three.vercel.app/) on Vercel.
+* **[Snake](https://github.com/GeoGeorgeous/snake)** — Simple snake game on `Svelte`. [Deployed](https://geogeorgeous.github.io/snake/) on Github Pages.
 * **[REST API for Mesto](https://github.com/GeoGeorgeous/express-mesto)** — Cards backend on `Node.js`,`Express.js and` `MongoDB`
 * **[REST API for Movies Explorer](https://github.com/GeoGeorgeous/movies-explorer-api)** — Arthouse movie selection backend on `Node.js` `Express.js` `MongoDB`
 
 [... and more](https://github.com/GeoGeorgeous?tab=repositories)
-
