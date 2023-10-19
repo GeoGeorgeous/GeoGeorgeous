@@ -1,5 +1,5 @@
 #### 🤖 Full Stack Web Dev
-> LinkedIn: **[Georgii Gorchev](www.linkedin.com/in/georgegorchev)**\
+> LinkedIn: **[Georgii Gorchev](https://www.linkedin.com/in/georgegorchev/)**\
 > Email: **georgegorchev@yandex.com**\
 > Telegram: **[@georgous](https://t.me/georgous)**
 
